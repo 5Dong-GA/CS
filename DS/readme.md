@@ -1,5 +1,6 @@
 # 자료구조 총 정리
 모든 자료구조의 data수는 n개라는 가정하에 정리
+
 # Linked List, Double Linked List
 -	data 정보와 다음 Node or 이전 Node를 가리키는 포인터를 지니고 있는 객체
 -	Memory 낭비가 있다. (다음 or 이전 Node를 가리키는 Pointer를 위한 Memory)
